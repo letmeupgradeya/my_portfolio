@@ -4,8 +4,17 @@
   text-align:center;
   padding:5px;
 }
+
+.header a {
+    color: white;
+    display:inline;
+}
+.header a:hover {
+    color: red;
+}
+
 .nav{
-  height:733.813px;
+  height:860.813px;
   width:20%;
   background-color:#eeeeee;
   float:left;
@@ -14,6 +23,7 @@
 .section{
   float:left;
   width:70%;
+  margin:20px 0px 0px 20px;
 }
 
 .footer{
